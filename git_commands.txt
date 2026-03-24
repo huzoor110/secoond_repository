@@ -1,0 +1,17 @@
+git init
+git add .
+git status
+git commit -m "added testing.file"
+rm testing.py
+git restore filename
+ls
+clear
+git status 
+git remote add origin "token and repository link"
+git remote -v 
+git status
+git set-url origin "link"
+clear
+git remote -v
+git push origin master
+clear
