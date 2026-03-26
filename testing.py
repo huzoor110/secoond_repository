@@ -1,1 +1,1 @@
-print ("hello bhai kya haal hain")
+print ("hello  kya haal hain")
